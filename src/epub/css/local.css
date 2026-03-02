@@ -108,3 +108,16 @@ span > span + span{
 	margin-left: 1.5em;
 }
 /* End poetry */
+
+/* Footers */
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
+[epub|type~="z3998:poem"] footer p{
+	margin-right: 1em;
+	margin-top: 1em;
+	text-align: right;
+}
+/* End footers */

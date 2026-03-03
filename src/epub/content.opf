@@ -30,57 +30,436 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Poetry</dc:title>
 		<meta property="file-as" refines="#title">Poetry</meta>
-		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
+		<dc:subject id="subject-1">Children's poetry</dc:subject>
+		<dc:subject id="subject-2">Didactic poetry</dc:subject>
+		<dc:subject id="subject-3">English literature--19th century</dc:subject>
+		<dc:subject id="subject-4">Love poetry</dc:subject>
+		<dc:subject id="subject-5">Poetry</dc:subject>
+		<meta property="se:is-a-collection">true</meta>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
-		<meta property="term" refines="#subject-1">SUBJECT_1_LCSH_ID</meta>
+		<meta property="term" refines="#subject-1">sh85023721</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
-		<meta property="term" refines="#subject-2">SUBJECT_2_LCSH_ID</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="term" refines="#subject-2">sh85037731</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh85043782</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh85078539</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh85103704</meta>
+		<meta property="se:subject">Children’s</meta>
+		<meta property="se:subject">Poetry</meta>
+		<dc:description id="description">A collection of poetry by Scottish writer Robert Louis Stevenson.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;While celebrated for his enduring adventure novels , &lt;a href="https://standardebooks.org/ebooks/robert-louis-stevenson"&gt;Robert Louis Stevenson&lt;/a&gt; also possessed a profound and deeply personal poetic voice. This complete collection of his verse journeys from the vibrant, unbounded imagination of youth—where everyday surroundings transform into realms of discovery, as seen in “My Shadow”—to the contemplative reflections of a lifelong wanderer.&lt;/p&gt;
+			&lt;p&gt;As the verses cross oceans and decades, the tone shifts to encompass darker mythic narratives, the abiding bonds of friendship, and the stark realities of mortality. Whether exploring the bloody folklore of the Scottish Highlands, the legends of the South Seas, or the serene acceptance of death found in “Requiem,” these poems offer a lyrical and intimate counterpart to his famous tales of adventure.&lt;/p&gt;
 		</meta>
-		<dc:language>LANG</dc:language>
-		<dc:source>TRANSCRIPTION_URL</dc:source>
-		<dc:source>PAGE_SCANS_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:language>en-GB</dc:language>
+		<!-- SCANS -->
+		<!-- The works of Robert Louis Stevenson - Vol. 28 -->
+		<!-- Some Like Drink; Here, Perfect To A Wish; As Seamen On The Seas  -->
+		<!-- The Pamphlet Here Presented; See How The Children In The Print   -->
+		<!-- Reader, Your Soul Upraise To See; A Peak In Darien               -->
+		<!-- See In The Print How, Moved By Whim                              -->
+		<!-- Mark, Printed On The Opposing Page                               -->
+		<!-- With Storms A-Weather, Rocks A-Lee                               -->
+		<!-- The Careful Angler Chose His Nook                                -->
+		<!-- The Abbot For A Walk Went Out; The Frozen Peaks He Once Explored -->
+		<!-- Industrious Pirate! See Him Sweep                                -->
+		<!-- For Certain Soldiers Lately Dead; Proem; The Precarious Mill     -->
+		<!-- The Disputatious Pines; The Tramps; The Foolhardy Geographer     -->
+		<!-- The Angler & The Clown; Robin And Ben; The Builder’s Doom        -->
+		<!-- The Light-Keeper                                                 -->
+		<dc:source>https://archive.org/details/worksofrobertlvol28stev</dc:source>
+		<!--  -->
+		<!-- The works of Robert Louis Stevenson - Vol. 14 -->
+		<!-- To Alison Cunningham; Bed In Summer; A Thought; At The Sea-Side    -->
+		<!-- Young Night-Thought; Whole Duty Of Children; Rain; Pirate Story    -->
+		<!-- Foreign Lands; Windy Nights; Travel; Singing; Looking Forward      -->
+		<!-- A Good Play; Where Go The Boats?; Auntie'S Skirts                  -->
+		<!-- The Land Of Counterpane; The Land Of Nod; My Shadow; System        -->
+		<!-- A Good Boy; Escape At Bedtime; Marching Song; The Cow              -->
+		<!-- Happy Thought; The Wind; Keepsake Mill; Good And Bad Children      -->
+		<!-- Foreign Children; The Sun Travels; The Lamplighter                 -->
+		<!-- My Bed Is A Boat; The Moon; The Swing; Time To Rise                -->
+		<!-- Looking-Glass River; Fairy Bread; From A Railway Carriage          -->
+		<!-- Winter-Time; The Hayloft; Farewell To The Farm; North-West Passage -->
+		<!-- The Unseen Playmate; My Ship And I; My Kingdom                     -->
+		<!-- Picture-Books In Winter; My Treasures; Block City                  -->
+		<!-- The Land Of Story-Books; Armies In The Fire; The Little Land       -->
+		<!-- Night And Day; Nest Eggs; The Flowers; Summer Sun                  -->
+		<!-- The Dumb Soldier; Autumn Fires; The Gardener                       -->
+		<!-- Historical Associations; To Willie And Henrietta; To My Mother     -->
+		<!-- To Auntie; To Minnie; To My Name-Child; To Any Reader; Envoy       -->
+		<!-- A Song Of The Road; The Canoe Speaks; It Is The Season Now To Go   -->
+		<!-- The House Beautiful; A Visit From The Sea; To A Gardener           -->
+		<!-- To Minnie; To K. De M.; To N. V. De G. S.; To Will. H. Low         -->
+		<!-- To Mrs. Will. H. Low; To H. F. Brown; To Andrew Lang               -->
+		<!-- Et Tu In Arcadia Vixisti (To R. A. M. S.); To W. E. Henley         -->
+		<!-- Henry James; The Mirror Speaks; Katharine; To F. J. S.; Requiem    -->
+		<!-- The Celestial Surgeon; Our Lady Of The Snows                       -->
+		<!-- Not Yet, My Soul, These Friendly Fields Desert                     -->
+		<!-- It Is Not Yours, O Mother, To Complain; The Sick Child             -->
+		<!-- In Memoriam F. A. S.; To My Father; In The States; A Portrait      -->
+		<!-- Sing Clearlier, Muse, Or Evermore Be Still; A Camp                 -->
+		<!-- The Country Of The Camisards; Skerryvore; Skerryvore: The Parallel -->
+		<!-- My House, I Say. But Hark To The Sunny Doves                       -->
+		<!-- My Body Which My Dungeon Is; Say Not Of Me That Weakly I Declined  -->
+		<!-- The Song Of Rahéro; The Feast Of Famine; Ticonderoga; Heather Ale  -->
+		<!-- Christmas At Sea; The Vagabond; Youth And Love⸺I                   -->
+		<!-- Youth And Love⸺II; In Dreams, Unhappy, I Behold You Stand          -->
+		<!-- She Rested By The Broken Brook; The Infinite Shining Heavens       -->
+		<!-- Plain As The Glistering Planets Shine; To You, Let Snow And Roses  -->
+		<!-- Let Beauty Awake In The Morn From Beautiful Dreams                 -->
+		<!-- I Know Not How It Is With You                                      -->
+		<!-- I Will Make You Brooches And Toys For Your Delight                 -->
+		<!-- We Have Loved Of Yore; Mater Triumphans                            -->
+		<!-- Bright Is The Ring Of Words                                        -->
+		<!-- In The Highlands, In The Country Places                            -->
+		<!-- Home No More Home To Me, Whither Must I Wander; Winter             -->
+		<!-- The Stormy Evening Closes Now In Vain; To Dr. Hake; To ⸻           -->
+		<!-- The Morning Drum-Call On My Eager Ear                              -->
+		<!-- I Have Trod The Upward And The Downward Slope                      -->
+		<!-- He Hears With Gladdened Heart The Thunder                          -->
+		<!-- Farewell, Fair Day And Fading Light; If This Were Faith            -->
+		<!-- My Wife; To The Muse; To An Island Princess; To Kalakaua           -->
+		<!-- To Princess Kaiulani; To Mother Maryanne; In Memoriam E. H.        -->
+		<!-- To My Wife; To My Old Familiars                                    -->
+		<!-- The Tropics Vanish, And Meseems That I; To S. C.                   -->
+		<!-- The House Of Tembinoka; The Woodman; Tropic Rain; An End Of Travel -->
+		<!-- We Uncommiserate Pass Into The Night                               -->
+		<!-- Sing Me A Song Of A Lad That Is Gone; To S. R. Crockett; Evensong  -->
+		<!-- A Familiar Epistle; Rondels; The Susquehannah And The Delaware     -->
+		<!-- Epistle To Albert Dew-Smith; Alcaics To Horatio F. Brown           -->
+		<!-- A Lytle Jape Of Tusherie; To Virgil And Dora Williams;             -->
+		<!-- Burlesque Sonnet; The Fine Pacific Islands                         -->
+		<!-- The Lesson Of The Master; The Consecration Of Braille; Song        -->
+		<dc:source>https://archive.org/details/worksofrobertlou14stev</dc:source>
+		<!--  -->
+		<!-- New poems and variant readings                                     -->
+		<!-- Prayer; Lo! In Thine Honest Eyes I Read                            -->
+		<!-- Though Deep Indifference Should Drowse                             -->
+		<!-- My Heart, When First The Blackbird Sings                           -->
+		<!-- I Dreamed Of Forest Alleys Fair; St. Martin’S Summer; Dedication   -->
+		<!-- The Old Chimaeras, Old Receipts; Prelude; The Vanquished Knight     -->
+		<!-- To The Commissioners Of Northern Lights                            -->
+		<!-- The Relic Taken, What Avails The Shrine?                           -->
+		<!-- About The Sheltered Garden Ground                                  -->
+		<!-- After Reading “Antony And Cleopatra”                               -->
+		<!-- I Know Not How, But As I Count; Spring Song                        -->
+		<!-- The Summer Sun Shone Round Me; You Looked So Tempting In The Pew   -->
+		<!-- Love’S Vicissitudes; Duddingstone                                  -->
+		<!-- Stout Marches Lead To Certain Ends; Away With Funeral Music        -->
+		<!-- To Sydney; Had I The Power That Have The Will                      -->
+		<!-- O Dull Cold Northern Sky; Apologetic Postscript Of A Year Later    -->
+		<!-- To Marcus; To Ottilie; This Gloomy Northern Day                    -->
+		<!-- The Wind Is Without There And Howls In The Trees                   -->
+		<!-- A Valentine’S Song; Hail!  Childish Slaves Of Social Rules         -->
+		<!-- Swallows Travel To And Fro; To Mesdames Zassetsky And Garschine    -->
+		<!-- To Madame Garschine; Music At The Villa Marina                     -->
+		<!-- Fear Not, Dear Friend, But Freely Live Your Days                   -->
+		<!-- Let Love Go, If Go She Will; I Do Not Fear To Own Me Kin           -->
+		<!-- I Am Like One That For Long Days Had Sate; Voluntary               -->
+		<!-- On Now, Although The Year Be Done; In The Green And Gallant Spring -->
+		<!-- Death, To The Dead For Evermore; To Charles Baxter                 -->
+		<!-- I Who All The Winter Through; Love, What Is Love?                  -->
+		<!-- Soon Our Friends Perish; As One Who Having Wandered All Night Long -->
+		<!-- Strange Are The Ways Of Men; The Wind Blew Shrill And Smart        -->
+		<!-- Man Sails The Deep Awhile                                          -->
+		<!-- The Cock’S Clear Voice Into The Clearer Air                        -->
+		<!-- Now When The Number Of My Years                                    -->
+		<!-- What Man May Learn, What Man May Do                                -->
+		<!-- Small Is The Trust When Love Is Green                              -->
+		<!-- Know You The River Near To Grez                                    -->
+		<!-- It’s Forth Across The Roaring Foam; An English Breeze              -->
+		<!-- As In Their Flight The Birds Of Song; The Piper                    -->
+		<!-- To Mrs. Macmarland; To Miss Cornish; Tales Of Arabia               -->
+		<!-- Behold, As Goblins Dark Of Mien; Still I Love To Rhyme             -->
+		<!-- Long Time I Lay In Little Ease; Flower God, God Of The Spring      -->
+		<!-- Come, My Beloved, Hear From Me; Since Years Ago For Evermore       -->
+		<!-- Envoy For “A Child’S Garden Of Verses”; For Richmond’S Garden Wall -->
+		<!-- Hail, Guest, And Enter Freely!; Lo, Now, My Guest                  -->
+		<!-- So Live, So Love, So Use That Fragile Hour; Ad Se Ipsum            -->
+		<!-- Before This Little Gift Was Come                                   -->
+		<!-- Go, Little Book—The Ancient Phrase; My Love Was Warm               -->
+		<!-- Dedicatory Poem For “Underwoods”; Farewell; The Far-Farers         -->
+		<!-- Come, My Little Children, Here Are Songs For You                   -->
+		<!-- Home From The Daisied Meadows                                      -->
+		<!-- Early In The Morning I Hear On Your Piano; Fair Isle At Sea        -->
+		<!-- Loud And Low In The Chimney; I Love To Be Warm By The Red Fireside -->
+		<!-- At Last She Comes; Mine Eyes Were Swift To Know Thee               -->
+		<!-- Fixed Is The Doom; Men Are Heaven’s Piers                          -->
+		<!-- The Angler Rose, He Took His Rod; Spring Carol                     -->
+		<!-- To What Shall I Compare Her; When The Sun Comes After Rain         -->
+		<!-- Late, O Miller; To Friends At Home                                 -->
+		<!-- I, Whom Apollo Sometime Visited; Tempest Tossed And Sore Afflicted -->
+		<!-- Variant Form Of The Preceding Poem                                 -->
+		<!-- I Now, O Friend, Whom Noiselessly The Snows                        -->
+		<!-- Since Thou Hast Given Me This Good Hope, O God                     -->
+		<!-- God Gave To Me A Child In Part; Over The Land Is April             -->
+		<!-- Light As The Linnet On My Way I Start                              -->
+		<!-- Comic, Here Is Adieu To The City; It Blows A Snowing Gale          -->
+		<!-- Ne Sit Ancillæ Tibi Amor Pudor; To All That Love The Far And Blue  -->
+		<!-- Thou Strainest Through The Mountain Fern; To Rosabelle             -->
+		<!-- Now Bare To The Beholder’s Eye; Sonnets; Air Of Diabelli’s         -->
+		<!-- Epitaphium Erotii; De M. Antonio; Ad Magistrum Ludi                -->
+		<!-- Ad Nepotem; In Charidemum; De Ligurra; In Lupum; Ad Quintilianum   -->
+		<!-- De Hortis Julii Martialis; Ad Martialem; In Maximum; Ad Olum       -->
+		<!-- De Cœnatione Micæ; De Erotio Puella; Ad Piscatorem                 -->
+		<dc:source>https://archive.org/details/newpoemsandvaria00stevuoft</dc:source>
+		<!--  -->
+		<!-- Poems by R. L. S. (Hitherto Unpublished) -->
+		<!-- The Mill-House; The Well-Head; A Summer Night                      -->
+		<!-- Take Not My Hand As Mine Alone; All Influences Were In Vain        -->
+		<!-- Death; The Moon Is Sinking⁠— The Tempestuous Weather               -->
+		<!-- The Whole Day Thro’, in Contempt and Pity                          -->
+		<!-- The Old World Moans And Topes; I Am Like One That Has Sat Alone    -->
+		<!-- I Sit Up Here At Midnight; Link Your Arm In Mine, My Lad           -->
+		<!-- I Have A Friend; I Have A Story; Hopes; To A Youth                 -->
+		<!-- Here He Comes, Big With Statistics                                 -->
+		<!-- In Autumn When The Woods Are Red                                   -->
+		<!-- The Look Of Death Is Both Severe And Mild                          -->
+		<!-- Her Name Is As A Word Of Old Romance                               -->
+		<!-- Light As My Heart Was Long Ago; Gather Ye Roses While Ye May       -->
+		<!-- Since I Am Sworn To Live My Life; Poem For A Class Re-Union        -->
+		<!-- I Saw Red Evening Through The Rain                                 -->
+		<!-- Last Night We Had a Thunderstorm in Style; O Lady Fair And Sweet   -->
+		<!-- If I Had Wings, My Lady; All Night Through, Raves Or Broods        -->
+		<!-- The Rain Is Over And Done; There Where The Land Of Love            -->
+		<!-- Love Is The Very Heart Of Spring; At Morning On The Garden Seat    -->
+		<!-- If I Could Arise and Travel Away                                   -->
+		<!-- Good Old Ale, Mild Or Pale; Nay, but I Fancy Somehow, Year by Year -->
+		<!-- My Wife And I, In One Romantic Cot                                 -->
+		<!-- Yes, I Remember, and Still Remember Wailing                        -->
+		<!-- Of Schooners, Islands And Maroons; Here Lies Erotion; To Priapus   -->
+		<!-- Far Over Seas An Island Is; On The Gorgeous Hills Of Morning       -->
+		<!-- Rivers And Winds Among The Twisted Hills                           -->
+		<!-- I Am A Hunchback, Yellow-Faced; I Look Across The Ocean            -->
+		<dc:source>https://archive.org/details/poemshithertounp00stevrich</dc:source>
+		<!--  -->
+		<!-- TRANSCRIPTS -->
+		<!-- The works of Robert Louis Stevenson - Vol. 28 -->
+		<!-- Some Like Drink; Here, Perfect To A Wish; As Seamen On The Seas  -->
+		<!-- The Pamphlet Here Presented; See How The Children In The Print   -->
+		<!-- Reader, Your Soul Upraise To See; A Peak In Darien               -->
+		<!-- See In The Print How, Moved By Whim                              -->
+		<!-- Mark, Printed On The Opposing Page                               -->
+		<!-- With Storms A-Weather, Rocks A-Lee                               -->
+		<!-- The Careful Angler Chose His Nook                                -->
+		<!-- The Abbot For A Walk Went Out; The Frozen Peaks He Once Explored -->
+		<!-- Industrious Pirate! See Him Sweep                                -->
+		<!-- For Certain Soldiers Lately Dead; Proem; The Precarious Mill     -->
+		<!-- The Disputatious Pines; The Tramps; The Foolhardy Geographer     -->
+		<!-- The Angler & The Clown; Robin And Ben; The Builder’s Doom        -->
+		<!-- The Light-Keeper                                                 -->
+		<dc:source>https://www.gutenberg.org/ebooks/31291</dc:source>
+		<!--  -->
+		<!-- The works of Robert Louis Stevenson - Vol. 14 -->
+		<!-- To Alison Cunningham; Bed In Summer; A Thought; At The Sea-Side    -->
+		<!-- Young Night-Thought; Whole Duty Of Children; Rain; Pirate Story    -->
+		<!-- Foreign Lands; Windy Nights; Travel; Singing; Looking Forward      -->
+		<!-- A Good Play; Where Go The Boats?; Auntie'S Skirts                  -->
+		<!-- The Land Of Counterpane; The Land Of Nod; My Shadow; System        -->
+		<!-- A Good Boy; Escape At Bedtime; Marching Song; The Cow              -->
+		<!-- Happy Thought; The Wind; Keepsake Mill; Good And Bad Children      -->
+		<!-- Foreign Children; The Sun Travels; The Lamplighter                 -->
+		<!-- My Bed Is A Boat; The Moon; The Swing; Time To Rise                -->
+		<!-- Looking-Glass River; Fairy Bread; From A Railway Carriage          -->
+		<!-- Winter-Time; The Hayloft; Farewell To The Farm; North-West Passage -->
+		<!-- The Unseen Playmate; My Ship And I; My Kingdom                     -->
+		<!-- Picture-Books In Winter; My Treasures; Block City                  -->
+		<!-- The Land Of Story-Books; Armies In The Fire; The Little Land       -->
+		<!-- Night And Day; Nest Eggs; The Flowers; Summer Sun                  -->
+		<!-- The Dumb Soldier; Autumn Fires; The Gardener                       -->
+		<!-- Historical Associations; To Willie And Henrietta; To My Mother     -->
+		<!-- To Auntie; To Minnie; To My Name-Child; To Any Reader; Envoy       -->
+		<!-- A Song Of The Road; The Canoe Speaks; It Is The Season Now To Go   -->
+		<!-- The House Beautiful; A Visit From The Sea; To A Gardener           -->
+		<!-- To Minnie; To K. De M.; To N. V. De G. S.; To Will. H. Low         -->
+		<!-- To Mrs. Will. H. Low; To H. F. Brown; To Andrew Lang               -->
+		<!-- Et Tu In Arcadia Vixisti (To R. A. M. S.); To W. E. Henley         -->
+		<!-- Henry James; The Mirror Speaks; Katharine; To F. J. S.; Requiem    -->
+		<!-- The Celestial Surgeon; Our Lady Of The Snows                       -->
+		<!-- Not Yet, My Soul, These Friendly Fields Desert                     -->
+		<!-- It Is Not Yours, O Mother, To Complain; The Sick Child             -->
+		<!-- In Memoriam F. A. S.; To My Father; In The States; A Portrait      -->
+		<!-- Sing Clearlier, Muse, Or Evermore Be Still; A Camp                 -->
+		<!-- The Country Of The Camisards; Skerryvore; Skerryvore: The Parallel -->
+		<!-- My House, I Say. But Hark To The Sunny Doves                       -->
+		<!-- My Body Which My Dungeon Is; Say Not Of Me That Weakly I Declined  -->
+		<!-- The Song Of Rahéro; The Feast Of Famine; Ticonderoga; Heather Ale  -->
+		<!-- Christmas At Sea; The Vagabond; Youth And Love⸺I                   -->
+		<!-- Youth And Love⸺II; In Dreams, Unhappy, I Behold You Stand          -->
+		<!-- She Rested By The Broken Brook; The Infinite Shining Heavens       -->
+		<!-- Plain As The Glistering Planets Shine; To You, Let Snow And Roses  -->
+		<!-- Let Beauty Awake In The Morn From Beautiful Dreams                 -->
+		<!-- I Know Not How It Is With You                                      -->
+		<!-- I Will Make You Brooches And Toys For Your Delight                 -->
+		<!-- We Have Loved Of Yore; Mater Triumphans                            -->
+		<!-- Bright Is The Ring Of Words                                        -->
+		<!-- In The Highlands, In The Country Places                            -->
+		<!-- Home No More Home To Me, Whither Must I Wander; Winter             -->
+		<!-- The Stormy Evening Closes Now In Vain; To Dr. Hake; To ⸻           -->
+		<!-- The Morning Drum-Call On My Eager Ear                              -->
+		<!-- I Have Trod The Upward And The Downward Slope                      -->
+		<!-- He Hears With Gladdened Heart The Thunder                          -->
+		<!-- Farewell, Fair Day And Fading Light; If This Were Faith            -->
+		<!-- My Wife; To The Muse; To An Island Princess; To Kalakaua           -->
+		<!-- To Princess Kaiulani; To Mother Maryanne; In Memoriam E. H.        -->
+		<!-- To My Wife; To My Old Familiars                                    -->
+		<!-- The Tropics Vanish, And Meseems That I; To S. C.                   -->
+		<!-- The House Of Tembinoka; The Woodman; Tropic Rain; An End Of Travel -->
+		<!-- We Uncommiserate Pass Into The Night                               -->
+		<!-- Sing Me A Song Of A Lad That Is Gone; To S. R. Crockett; Evensong  -->
+		<!-- A Familiar Epistle; Rondels; The Susquehannah And The Delaware     -->
+		<!-- Epistle To Albert Dew-Smith; Alcaics To Horatio F. Brown           -->
+		<!-- A Lytle Jape Of Tusherie; To Virgil And Dora Williams;             -->
+		<!-- Burlesque Sonnet; The Fine Pacific Islands                         -->
+		<!-- The Lesson Of The Master; The Consecration Of Braille; Song        -->
+		<dc:source>https://www.gutenberg.org/ebooks/30659</dc:source>
+		<!--  -->
+		<!-- New poems and variant readings                                     -->
+		<!-- Prayer; Lo! In Thine Honest Eyes I Read                            -->
+		<!-- Though Deep Indifference Should Drowse                             -->
+		<!-- My Heart, When First The Blackbird Sings                           -->
+		<!-- I Dreamed Of Forest Alleys Fair; St. Martin’S Summer; Dedication   -->
+		<!-- The Old Chimaeras, Old Receipts; Prelude; The Vanquished Knight     -->
+		<!-- To The Commissioners Of Northern Lights                            -->
+		<!-- The Relic Taken, What Avails The Shrine?                           -->
+		<!-- About The Sheltered Garden Ground                                  -->
+		<!-- After Reading “Antony And Cleopatra”                               -->
+		<!-- I Know Not How, But As I Count; Spring Song                        -->
+		<!-- The Summer Sun Shone Round Me; You Looked So Tempting In The Pew   -->
+		<!-- Love’S Vicissitudes; Duddingstone                                  -->
+		<!-- Stout Marches Lead To Certain Ends; Away With Funeral Music        -->
+		<!-- To Sydney; Had I The Power That Have The Will                      -->
+		<!-- O Dull Cold Northern Sky; Apologetic Postscript Of A Year Later    -->
+		<!-- To Marcus; To Ottilie; This Gloomy Northern Day                    -->
+		<!-- The Wind Is Without There And Howls In The Trees                   -->
+		<!-- A Valentine’S Song; Hail!  Childish Slaves Of Social Rules         -->
+		<!-- Swallows Travel To And Fro; To Mesdames Zassetsky And Garschine    -->
+		<!-- To Madame Garschine; Music At The Villa Marina                     -->
+		<!-- Fear Not, Dear Friend, But Freely Live Your Days                   -->
+		<!-- Let Love Go, If Go She Will; I Do Not Fear To Own Me Kin           -->
+		<!-- I Am Like One That For Long Days Had Sate; Voluntary               -->
+		<!-- On Now, Although The Year Be Done; In The Green And Gallant Spring -->
+		<!-- Death, To The Dead For Evermore; To Charles Baxter                 -->
+		<!-- I Who All The Winter Through; Love, What Is Love?                  -->
+		<!-- Soon Our Friends Perish; As One Who Having Wandered All Night Long -->
+		<!-- Strange Are The Ways Of Men; The Wind Blew Shrill And Smart        -->
+		<!-- Man Sails The Deep Awhile                                          -->
+		<!-- The Cock’S Clear Voice Into The Clearer Air                        -->
+		<!-- Now When The Number Of My Years                                    -->
+		<!-- What Man May Learn, What Man May Do                                -->
+		<!-- Small Is The Trust When Love Is Green                              -->
+		<!-- Know You The River Near To Grez                                    -->
+		<!-- It’s Forth Across The Roaring Foam; An English Breeze              -->
+		<!-- As In Their Flight The Birds Of Song; The Piper                    -->
+		<!-- To Mrs. Macmarland; To Miss Cornish; Tales Of Arabia               -->
+		<!-- Behold, As Goblins Dark Of Mien; Still I Love To Rhyme             -->
+		<!-- Long Time I Lay In Little Ease; Flower God, God Of The Spring      -->
+		<!-- Come, My Beloved, Hear From Me; Since Years Ago For Evermore       -->
+		<!-- Envoy For “A Child’S Garden Of Verses”; For Richmond’S Garden Wall -->
+		<!-- Hail, Guest, And Enter Freely!; Lo, Now, My Guest                  -->
+		<!-- So Live, So Love, So Use That Fragile Hour; Ad Se Ipsum            -->
+		<!-- Before This Little Gift Was Come                                   -->
+		<!-- Go, Little Book—The Ancient Phrase; My Love Was Warm               -->
+		<!-- Dedicatory Poem For “Underwoods”; Farewell; The Far-Farers         -->
+		<!-- Come, My Little Children, Here Are Songs For You                   -->
+		<!-- Home From The Daisied Meadows                                      -->
+		<!-- Early In The Morning I Hear On Your Piano; Fair Isle At Sea        -->
+		<!-- Loud And Low In The Chimney; I Love To Be Warm By The Red Fireside -->
+		<!-- At Last She Comes; Mine Eyes Were Swift To Know Thee               -->
+		<!-- Fixed Is The Doom; Men Are Heaven’s Piers                          -->
+		<!-- The Angler Rose, He Took His Rod; Spring Carol                     -->
+		<!-- To What Shall I Compare Her; When The Sun Comes After Rain         -->
+		<!-- Late, O Miller; To Friends At Home                                 -->
+		<!-- I, Whom Apollo Sometime Visited; Tempest Tossed And Sore Afflicted -->
+		<!-- Variant Form Of The Preceding Poem                                 -->
+		<!-- I Now, O Friend, Whom Noiselessly The Snows                        -->
+		<!-- Since Thou Hast Given Me This Good Hope, O God                     -->
+		<!-- God Gave To Me A Child In Part; Over The Land Is April             -->
+		<!-- Light As The Linnet On My Way I Start                              -->
+		<!-- Comic, Here Is Adieu To The City; It Blows A Snowing Gale          -->
+		<!-- Ne Sit Ancillæ Tibi Amor Pudor; To All That Love The Far And Blue  -->
+		<!-- Thou Strainest Through The Mountain Fern; To Rosabelle             -->
+		<!-- Now Bare To The Beholder’s Eye; Sonnets; Air Of Diabelli’s         -->
+		<!-- Epitaphium Erotii; De M. Antonio; Ad Magistrum Ludi                -->
+		<!-- Ad Nepotem; In Charidemum; De Ligurra; In Lupum; Ad Quintilianum   -->
+		<!-- De Hortis Julii Martialis; Ad Martialem; In Maximum; Ad Olum       -->
+		<!-- De Cœnatione Micæ; De Erotio Puella; Ad Piscatorem                 -->
+		<dc:source>https://www.gutenberg.org/ebooks/441</dc:source>
+		<!--  -->
+		<!-- Poems by R. L. S. (Hitherto Unpublished) -->
+		<!-- The Mill-House; The Well-Head; A Summer Night                      -->
+		<!-- Take Not My Hand As Mine Alone; All Influences Were In Vain        -->
+		<!-- Death; The Moon Is Sinking⁠— The Tempestuous Weather               -->
+		<!-- The Whole Day Thro’, in Contempt and Pity                          -->
+		<!-- The Old World Moans And Topes; I Am Like One That Has Sat Alone    -->
+		<!-- I Sit Up Here At Midnight; Link Your Arm In Mine, My Lad           -->
+		<!-- I Have A Friend; I Have A Story; Hopes; To A Youth                 -->
+		<!-- Here He Comes, Big With Statistics                                 -->
+		<!-- In Autumn When The Woods Are Red                                   -->
+		<!-- The Look Of Death Is Both Severe And Mild                          -->
+		<!-- Her Name Is As A Word Of Old Romance                               -->
+		<!-- Light As My Heart Was Long Ago; Gather Ye Roses While Ye May       -->
+		<!-- Since I Am Sworn To Live My Life; Poem For A Class Re-Union        -->
+		<!-- I Saw Red Evening Through The Rain                                 -->
+		<!-- Last Night We Had a Thunderstorm in Style; O Lady Fair And Sweet   -->
+		<!-- If I Had Wings, My Lady; All Night Through, Raves Or Broods        -->
+		<!-- The Rain Is Over And Done; There Where The Land Of Love            -->
+		<!-- Love Is The Very Heart Of Spring; At Morning On The Garden Seat    -->
+		<!-- If I Could Arise and Travel Away                                   -->
+		<!-- Good Old Ale, Mild Or Pale; Nay, but I Fancy Somehow, Year by Year -->
+		<!-- My Wife And I, In One Romantic Cot                                 -->
+		<!-- Yes, I Remember, and Still Remember Wailing                        -->
+		<!-- Of Schooners, Islands And Maroons; Here Lies Erotion; To Priapus   -->
+		<!-- Far Over Seas An Island Is; On The Gorgeous Hills Of Morning       -->
+		<!-- Rivers And Winds Among The Twisted Hills                           -->
+		<!-- I Am A Hunchback, Yellow-Faced; I Look Across The Ocean            -->
+		<dc:source>https://en.wikisource.org/wiki/Poems,_by_Robert_Louis_Stevenson,_hitherto_unpublished</dc:source>
+		<meta property="se:production-notes">The poems are ordered according to original publication date.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/robert-louis-stevenson_poetry</meta>
 		<dc:creator id="author">Robert Louis Stevenson</dc:creator>
 		<meta property="file-as" refines="#author">Stevenson, Robert Louis</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Robert_Louis_Stevenson</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78088964</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST_NAME</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ill</meta>
+		<dc:contributor id="artist">Albert Edelfelt</dc:contributor>
+		<meta property="file-as" refines="#artist">Edelfelt, Albert</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Albert_Edelfelt</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n82230057</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER_1_NAME</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_1_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_1_URL</meta>
+		<dc:contributor id="transcriber-1">Jonathan Ingram</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Ingram, Jonathan</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">TRANSCRIBER_2_NAME</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_2_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-2">TRANSCRIBER_2_URL</meta>
+		<dc:contributor id="transcriber-2">Marius Masi</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Masi, Marius</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-3">Distributed Proofreaders</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders</meta>
-		<meta property="se:url.homepage" refines="#transcriber-3">https://www.pgdp.net/</meta>
+		<dc:contributor id="transcriber-3">David Price</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Price, David</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER_NAME</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="transcriber-4">Distributed Proofreaders</dc:contributor>
+		<meta property="file-as" refines="#transcriber-4">Distributed Proofreaders</meta>
+		<meta property="se:url.homepage" refines="#transcriber-4">https://www.pgdp.net/</meta>
+		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-5">Wikisource Contributors</dc:contributor>
+		<meta property="file-as" refines="#transcriber-5">Wikisource Contributors</meta>
+		<meta property="se:url.homepage" refines="#transcriber-5">https://en.wikisource.org/</meta>
+		<meta property="role" refines="#transcriber-5" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">C. B. Bowman</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Bowman, C. B.</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://github.com/cbbowman</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">wat</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>

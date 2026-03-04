@@ -145,3 +145,22 @@ footer{
 	text-align: justify;
 }
 /* End bridgeheads */
+
+/* Italics */
+q,
+#the-abbot-for-a-walk-went-out span:nth-of-type(n+9),
+#the-frozen-peaks-he-once-explored span:nth-of-type(n+7),
+#industrious-pirate-see-him-sweep span:nth-of-type(n+9),
+#robin-and-ben p:nth-of-type(15) span:nth-of-type(9),
+#the-builders-doom p:last-of-type,
+#to-alison-cunningham > p,
+#to-auntie span:nth-of-type(n+3),
+#the-house-beautiful > p:first-of-type,
+#requiem p:nth-of-type(2) span:nth-of-type(n+2),
+#the-song-of-rahero-dedication header p,
+#the-song-of-rahero-dedication > p,
+#the-house-of-tembinoka div:first-of-type > p,
+#note-18 span:nth-of-type(-n+2){
+	font-style: italic;
+}
+/* End italics */

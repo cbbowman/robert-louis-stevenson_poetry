@@ -107,6 +107,16 @@ p span.i7{
 span > span + span{
 	margin-left: 1.5em;
 }
+
+[epub|type~="z3998:poem"] span.variant{
+	border-left: 1px solid;
+	border-radius: 5px;
+	border-right: 1px solid;
+	display: inline-block;
+	padding: 0 .5em 0 .5em;
+	text-indent: 0;
+	vertical-align: middle;
+}
 /* End poetry */
 
 /* Footers */

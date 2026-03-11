@@ -164,3 +164,14 @@ q,
 	font-style: italic;
 }
 /* End italics */
+
+/* "The Song of Rahéro" dedication */
+#the-song-of-rahero-dedication header p{
+	font-variant: small-caps;
+	text-align: center;
+}
+
+#the-song-of-rahero-dedication footer p{
+	font-variant: small-caps;
+}
+/* End "The Song of Rahéro" dedication */

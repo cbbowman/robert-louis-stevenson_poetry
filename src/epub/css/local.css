@@ -159,6 +159,7 @@ q,
 #requiem p:nth-of-type(2) span:nth-of-type(n+2),
 #the-song-of-rahero-dedication header p,
 #the-song-of-rahero-dedication > p,
+#the-feast-of-famine-2 blockquote,
 #the-house-of-tembinoka div:first-of-type > p,
 #note-18 span:nth-of-type(-n+2){
 	font-style: italic;
